@@ -1,4 +1,4 @@
-package exercicios.lista_de_tarefas;
+package exercicios.list.lista_de_tarefas;
 
 import java.util.ArrayList;
 import java.util.List;

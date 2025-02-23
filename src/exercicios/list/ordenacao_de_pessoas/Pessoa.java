@@ -1,6 +1,4 @@
-package exercicios.ordenacao_de_pessoas;
-
-import comparable.Livro;
+package exercicios.list.ordenacao_de_pessoas;
 
 import java.util.Collections;
 import java.util.Comparator;

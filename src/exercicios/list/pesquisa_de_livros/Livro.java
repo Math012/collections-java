@@ -1,6 +1,5 @@
-package exercicios.pesquisa_de_livros;
+package exercicios.list.pesquisa_de_livros;
 
-import java.util.Comparator;
 import java.util.List;
 
 public class Livro {

@@ -1,4 +1,4 @@
-package exercicios.pesquisa_de_livros;
+package exercicios.list.pesquisa_de_livros;
 
 import java.util.ArrayList;
 import java.util.List;

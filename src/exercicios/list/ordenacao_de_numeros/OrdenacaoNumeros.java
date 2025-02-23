@@ -1,6 +1,5 @@
-package exercicios.ordenacao_de_numeros;
+package exercicios.list.ordenacao_de_numeros;
 
-import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 

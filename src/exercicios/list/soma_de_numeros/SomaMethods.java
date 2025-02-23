@@ -1,4 +1,4 @@
-package exercicios.soma_de_numeros;
+package exercicios.list.soma_de_numeros;
 
 import java.util.List;
 

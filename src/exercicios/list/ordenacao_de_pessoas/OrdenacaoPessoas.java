@@ -1,7 +1,6 @@
-package exercicios.ordenacao_de_pessoas;
+package exercicios.list.ordenacao_de_pessoas;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 public class OrdenacaoPessoas {
